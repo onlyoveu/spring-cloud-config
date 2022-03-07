@@ -1,4 +1,4 @@
 env: app-test.yml
 spring:
   profiles:
-    include: common/ftp1
+    include: common/ftp/ftp1
